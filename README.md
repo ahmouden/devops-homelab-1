@@ -4,6 +4,9 @@ This github repository contains the setup for a complete DevOps pipeline, combin
 
 The application `telnet-server` is built in Go and containerized using Docker, while Kubernetes manages deployment and scaling. Skaffold handles the automation of the CI/CD pipeline, and the monitoring stack (Grafana, Prometheus, and Alertmanager) helps track application performance and notify on alerts.
 
+> [!NOTE]
+> You can find my writeup of the project by following this link: https://ahmouden.com/projects/devops-homelab-part-1/
+
 ## ⚙️ Setup
 ### 🛠️ Prerequisites
 
